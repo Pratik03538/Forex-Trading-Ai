@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+
+# Backtest Excel Reports (Taaki aapki personal reports upload na hon)
+*.xlsx
+*.csv
