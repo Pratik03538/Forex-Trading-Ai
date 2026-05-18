@@ -137,15 +137,9 @@ streamlit run auraquant_app.py
 ```text
 Forex-Trading-Ai/
 │
-├── auraquant_app.py
+├── QuantAi.py
 ├── requirements.txt
-├── strategy/
-├── models/
-├── reports/
-├── images/
-├── backtesting/
-├── live_trading/
-└── utils/
+└── README.md
 ```
 
 ---
