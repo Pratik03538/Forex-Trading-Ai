@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+MetaTrader5
+scikit-learn
+scipy
+tensorflow
+keras
+xgboost
+xlsxwriter
+openpyxl
