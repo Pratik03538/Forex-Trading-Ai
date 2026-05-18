@@ -44,8 +44,7 @@ AuraQuant Pro AI is a high-frequency, machine-learning-powered trading terminal 
 ## Live Trading Dashboard
 
 <!-- Add Screenshot Here -->
-![Live Dashboard](<img width="1913" height="915" alt="Screenshot (865)" src="https://github.com/user-attachments/assets/228336b9-a31a-4367-8c38-a0cd8cb98e26" />
-)
+![Live Dashboard](<img width="1913" height="915" alt="Screenshot (865)" src="https://github.com/user-attachments/assets/228336b9-a31a-4367-8c38-a0cd8cb98e26" />)
 
 ## Backtesting Analytics
 
